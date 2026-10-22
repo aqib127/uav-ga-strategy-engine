@@ -80,6 +80,4 @@ Produces results/fig6_sensitivity.png + results/sensitivity.json.
 - Runtime: ~38 s
 
 ## Team
-- **Aqib Ali** (Roll: <YOUR-ROLL>) - Code + GitHub
-- **<TEAMMATE-2-NAME>** (Roll: <ROLL-2>) - Experiments + figures
-- **<TEAMMATE-3-NAME>** (Roll: <ROLL-3>) - Report
+- **Aqib Ali** (Roll: <03-134261-007>) - Code + GitHub
